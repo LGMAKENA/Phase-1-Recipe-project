@@ -1,0 +1,305 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Chicken Lo Mein",
+      "image": "https://spoonacular.com/recipeImages/638174-556x370.jpg",
+      "secondaryImages": [
+        "/images/food/lo-mein-1.jpg",
+        "/images/food/lo-mein-2.jpg",
+        "/images/food/lo-mein-3.jpg"
+      ],
+      "servings": 2,
+      "readyInMinutes": 35,
+      "aggregateLikes": 435,
+      "caloreies": 401,
+      "ingredients": [
+        "1 cup bean sprouts, drained",
+        "1 cup bok choy, chopped",
+        "1/2 cup carrot, julienned",
+        "2 cups cooked cooked spaghetti",
+        "1 clove garlic, minced",
+        "2 teaspoons ginger, minced",
+        "1/2 cup low-sodium chicken broth",
+        "1 tablespoon low-sodium soy sauce",
+        "1/2 cup mushrooms, sliced",
+        "2 teaspoons peanut oil",
+        "4 scallions, juliened",
+        "5 ounces boneless, skinless chicken breast, cut into ½-inch strips"
+      ],
+      "tags": ["Asian", "Chinese", "Vietnamese"],
+      "preparation": "<ol><li>In a large nonstick skillet, heat oil; add ginger and garlic and cook over medium heat for 1 minute.  Add chicken and carrot; cook over medium-high heat, stirring occasionally, until chicken is lightly browned, about 2 minutes.</li><li>Add remaining ingredients except noodles; cook, stirring constantly, until carrot is tender-crisp, about 3 minutes.  Stir in noodles and cook until heated through, about 1 minute.</li></ol>"
+    },
+    {
+      "id": 2,
+      "title": "Pork Fried Rice",
+      "image": "https://spoonacular.com/recipeImages/656777-556x370.jpg",
+      "secondaryImages": [
+        "/images/food/pork-fried-rice-1.jpg",
+        "/images/food/pork-fried-rice-2.jpg",
+        "/images/food/pork-fried-rice-3.jpg"
+      ],
+      "servings": 4,
+      "readyInMinutes": 45,
+      "aggregateLikes": 316,
+      "caloreies": 635,
+      "ingredients": [
+        "4 cups steamed rice",
+        "4 large eggs, lightly beaten",
+        "1 piece of ginger, roughly half a thumbsize",
+        "2/3 cup green onions",
+        "2 tablespoons hoisin sauce",
+        "4 tablespoons Light soy sauce",
+        "1500 gram pork loin with skin",
+        "1 small red onion, finely diced",
+        "2 teaspoons Sesame oil",
+        "1/4 cup vegetable oil",
+        "2 teaspoons white sugar",
+        "1 tablespoon white vinegar"
+      ],
+      "tags": ["Chinese", "Asian"],
+      "preparation": "<ol><li>Cut pork into 1/4 inch slices, then cut into 1/4 inch strips and set aside.</li><li>Heat half the oil in a hot wok until the surface begins to quiver. Pour in beaten eggs and allow to cook for 10 seconds, then fold egg mixture over onto itself with a spatula and lightly scramble for about 1 minute. Carefully remove egg from wok with a spatula and drain on paper towel. Set aside.</li><li>Heat remaining oil in hot wok and stir fry onion and ginger for 30 seconds. Add sugar and stir fry for 30 more seconds. Add pork and stir fry for a further 30 seconds. Stir in hoisin sauce, soy sauce, vinegar, and sesame oil and cook, stirring, for 1 minute. Toss in rice and cooked egg and stir, using a spatula to break up the egg into smaller pieces, for 1 minute. Finally, add green onions and stir fry for a further 30 seconds or until well combined and rice is heated through.</li><li>Transfer rice to a platter and serve.</li></ol>"
+    },
+    {
+      "id": 3,
+      "title": "Fish Crocchette Appetizer",
+      "image": "https://spoonacular.com/recipeImages/642927-556x370.jpg",
+      "secondaryImages": [
+        "/images/food/fish-crocchette-1.jpg",
+        "/images/food/fish-crocchette-2.jpg",
+        "/images/food/fish-crocchette-3.jpg"
+      ],
+      "servings": 8,
+      "readyInMinutes": 45,
+      "aggregateLikes": 222,
+      "caloreies": 406,
+      "ingredients": [
+        "Bread crumbs",
+        "Canola oil",
+        "500 grams cod fillet",
+        "2 eggs",
+        "100 grams flour",
+        "1 clove garlic",
+        "1/2 Grated rind of a lemon",
+        "1 cup milk",
+        "50 grams parmesan cheese",
+        "1 bunch chopped parsley",
+        "400 grams potatoes",
+        "Salt to taste",
+        "150 grams tuna in olive oil"
+      ],
+      "tags": ["European", "Mediterranean", "Vietnamese"],
+      "preparation": "<ol><li>Begin to cook the fish and potatoes.</li><li>Cook cod in a saucepan.</li><li>Boil the potatoes in their skins in a pot with the water or in the microwave in a container with two inches of water (for the cooking time in the microwave, read the instruction booklet)</li><li>Let cool cod, eliminated any remaining bones. In a bowl add the mashed potatoes, the minced cod, the garlic cooked in the milk, tuna, drained, Parmesan, chopped parsley, salt , egg and the half lemon zest grated.</li><li>Mix well the mixture , form into balls to the same size if possible.</li><li>Coat in white flour, dip in beaten egg and into bread crumbs, fry in canola oil (325 degrees F) until golden , dry on paper towels.</li></ol>"
+    },
+    {
+      "id": 4,
+      "title": "Lasagna - Spinach Rolls",
+      "image": "https://spoonacular.com/recipeImages/649270-556x370.jpg",
+      "secondaryImages": [
+        "/images/food/lasagna-1.jpg",
+        "/images/food/lasagna-2.jpg",
+        "/images/food/lasagna-3.jpg"
+      ],
+      "servings": 6,
+      "readyInMinutes": 105,
+      "aggregateLikes": 456,
+      "caloreies": 443,
+      "ingredients": [
+        "2 tablespoons butter",
+        "1 can mushrooms",
+        "2 (15 oz.) cans tomato sauce",
+        "2 cups curd cottage cheese",
+        "1 (16 oz.) pkg. Ronzoni curly edge lasagna",
+        "2 eggs, slightly beaten",
+        "1 teaspoon garlic powder",
+        "2 teaspoons marjoram leaves",
+        "3/4 pound mozzarella cheese",
+        "1/2 cup onion, chopped",
+        "1/2 cup grated Parmesan cheese",
+        "pepper",
+        "2/3 cup red pepper, chopped",
+        "2 (10 oz.) pkgs. chopped spinach"
+      ],
+      "tags": ["Mediterranean", "Italian", "European"],
+      "preparation": "<ol><li>Cook noodles as directed, omitting salt; drain and pat dry. Saute red pepper, mushrooms and onion in butter until tender. Combine cottage cheese, spinach, eggs, 4 tablespoons of the Parmesan cheese, the sauteed vegetables and pepper; mix well. Spread 1/3 cup filling on each noodle. Roll up, place in greased 13 x 9 inch baking dish. Heat tomato sauce, marjoram, sugar and garlic powder 5 minutes; pour over lasagna rolls. Sprinkle with Mozzarella cheese and remaining Parmesan cheese. Cover and bake at 350 degrees for 40 minutes. Makes 12 rolls.</li><li>This lasagna is my favorite. I have made it often, as I find it goes with any dinner. Also it can be prepared in advance and frozen.</li></ol>"
+    },
+    {
+      "id": 5,
+      "title": "Asian Noodles",
+      "image": "https://spoonacular.com/recipeImages/632854-556x370.jpg",
+      "secondaryImages": [
+        "/images/food/noodles-1.jpg",
+        "/images/food/noodles-2.jpg",
+        "/images/food/noodles-3.jpg"
+      ],
+      "servings": 4,
+      "readyInMinutes": 45,
+      "aggregateLikes": 363,
+      "caloreies": 549,
+      "ingredients": [
+        "2 mediums carrots julienned",
+        "1/2 cup cashews",
+        "12 ounces dry egg noodles",
+        "2 teaspoons minced fresh ginger",
+        "4 ounces fresh mushrooms",
+        "1 garlic clove minced",
+        "1 green chile pepper seeded, minced",
+        "1 tablespoon hoisin sauce",
+        "2 tablespoons peanut oil",
+        "1 medium red bell pepper julienned",
+        "3 tablespoons rice wine vinegar",
+        "2 scallions, white and light green parts sliced",
+        "8 ounces snow peas"
+      ],
+      "tags": ["Asian"],
+      "preparation": "<ol><li>Cook noodles according to package directions; drain well.</li><li>Blanch snow peas in boiling water 1 minute. Drain and refresh in cold water, then pat dry. Transfer to medium bowl. Add carrots and scallions.</li><li>In medium skillet, heat oil over medium heat. Add garlic and chile pepper and cook, stirring often, 30 seconds. Add mushrooms and cook, stirring often, 2 minutes. Add mushrooms to bowl with vegetables.</li><li>Add vinegar, ginger and hoisin sauce to pan and warm through. Pour over vegetables. Add noodles and toss. Serve warm or at room temperature.</li><li>This recipe yields 4 servings.</li><li>Comments: Once the vegetables have been sliced, this tasty main dish salad can be thrown together in minutes.</li><li>Serve these noodles with a packaged miso soup mix.</li></ol>"
+    },
+    {
+      "id": 6,
+      "title": "Lamb Chops Masala",
+      "image": "https://spoonacular.com/recipeImages/649199-556x370.jpg",
+      "secondaryImages": [
+        "/images/food/lamb-chops-1.jpg",
+        "/images/food/lamb-chops-2.jpg",
+        "/images/food/lamb-chops-3.jpg"
+      ],
+      "servings": 1,
+      "readyInMinutes": 60,
+      "aggregateLikes": 505,
+      "caloreies": 419,
+      "ingredients": [
+        "1 tablespoon Cayenne",
+        "Coriander",
+        "1 teaspoon Ground roasted cumin seeds",
+        "Remove all extra fat",
+        "1 teaspoon x 2 Punjabi garam masala",
+        "2 Cloves garlic, peeled and cut in half",
+        "3 In piece of fresh ginger",
+        "6-8 lamb chops from the ribs,",
+        "3 tablespoons Lemon juice",
+        "sized onions very",
+        "Salt to taste",
+        "Tomatoes",
+        "12 ounces fl Oz Plain yoghurt beaten",
+        "8 ounces fl Oz grated or finely chopped"
+      ],
+      "tags": ["Indian", "Asian"],
+      "preparation": "<ol><li>Here's a tasty Punjabi recipe for lamb chops. My folks originated from this area of the sub-continet and hence this was popular at home.</li><li>Put the ginger and garlic into the container of an electric blender with 2-3 tablespoons of water and blend to a paste.</li><li>Put the chops, tomatoes, onions, cayenne pepper, yoghurt, salt and ginger-garlic paste into a large wok or heavy-bottomed saucepan. Stir and bring to the boil. Turn the heat to low, cover and simmer for 50 minutes or until the chops are almost cooked. Add the cumin seeds and simmer for 10 to 15 minutes or until the meat is tender and the sauce thick. Add the garam masala and lemon juice and stir.</li><li>Sprinkle fresh coriander over the top and serve.</li><li>TIPS</li><li>In the Punjab, tomatoes are grated to make a puree - don't be tempted to use ready-prepared tomato puree instead of fresh.</li><li>The spice combinations in garam masala vary in different parts of India. In the Punjab this one which you can try making yourself is common: 5 tbsps coriander seeds, 3 tbsps cumin seeds, 2 1/2 tbsps black peppercorns, 2 1/2 black cardamom seeds, 2 in cinnamon stick, 4-5 cloves, 1/6 nutmeg. Put the coriander and the cumin into a cast-iron frying-pan over a medium heat.</li><li>Stir until lightly roasted. Allow to cool. Grind with the remaining ingredients in a clean coffee grinder and store in a tightly lidded jar.</li><li>This rich flavoursome dish originates in the fertile Punjab, a state now divided between India and Pakistan. There is nothing more important to a Punjabi man's diet than bread, and meals are accompanied by flat round cornbread rotis or rich, flaky pan-fried paratha layered with ghee</li><li>(clarified butter).</li><li>Rice is reserved for special occasions or for rice pudding, for the only food that makes a Punjabi feel he has eaten a proper meal is his bread! You of course, can serve this dish with plain boiled rice.</li></ol>"
+    },
+    {
+      "id": 7,
+      "title": "Chicken Wings",
+      "image": "https://spoonacular.com/recipeImages/638420-556x370.jpg",
+      "secondaryImages": [
+        "/images/food/chicken-wings-1.jpg",
+        "/images/food/chicken-wings-2.jpg",
+        "/images/food/chicken-wings-3.jpg"
+      ],
+      "servings": 30,
+      "readyInMinutes": 60,
+      "aggregateLikes": 896,
+      "caloreies": 91,
+      "ingredients": [
+        "2 tablespoons brown sugar",
+        "3 1/3 pounds organic chicken drummettes",
+        "1 teaspoon garlic powder",
+        "2 teaspoons ground cumin",
+        "Honey",
+        "1 tablespoon kosher salt",
+        "Tabasco Sauce",
+        "2 tablespoons taco seasoning",
+        "3 tablespoons vegan cream cheese",
+        "2 tablespoons coconut yogurt"
+      ],
+      "tags": ["American"],
+      "preparation": "<ol><li>For the Chicken Wing Drummettes:</li><li>Add chicken into a large glass or stainless steel bowl, toss all the seasonings and brown sugar over the chicken.</li><li>Cover with plastic wrap and refrigerate for an hour or two.</li><li>Preheat the oven temperature to 400 degrees F.</li><li>Place all the seasoned chicken onto a parchment lined baking sheet spread out so that they don't touch.  If you are doubling the recipe use two pans.</li><li>Bake for 35 minutes.</li><li>In a large bowl, add about 2 tablespoons of honey (or more if you like) and a few splashes of tabasco sauce (less or more to your liking).</li><li>Add the chicken, if it feels to hot to toss, wait a few minutes or use two spoons to coat the chicken.  Serve hot or warm.</li><li>To prepare \"Ranch\" Dip: Add chive and garlic vegan cream cheese to the coconut milk yogurt in a small bowl and mix well.</li><li>Serve chilled with celery sticks and chicken wings.</li></ol>"
+    },
+    {
+      "id": 8,
+      "title": "Curry Fish With Peas",
+      "image": "https://spoonacular.com/recipeImages/641123-556x370.jpg",
+      "secondaryImages": [
+        "/images/food/fish-peas-1.jpg",
+        "/images/food/fish-peas-2.jpg",
+        "/images/food/fish-peas-3.jpg"
+      ],
+      "servings": 1,
+      "readyInMinutes": 30,
+      "aggregateLikes": 439,
+      "caloreies": 554,
+      "ingredients": [
+        "cooked rice",
+        "1 tablespoon Cornstarch",
+        "1/2 tablespoon Curry powder",
+        "250 grams Alaska pollock fillet",
+        "3 tablespoons Green peas",
+        "5 tablespoons Ketchup",
+        "Oil for frying",
+        "1 medium onion, diced",
+        "1/4 teaspoon rice wine",
+        "Salt to taste",
+        "1/2 tablespoon Sugar",
+        "5 cups water",
+        "Pinch White pepper"
+      ],
+      "tags": ["Indian", "Asian"],
+      "preparation": "<ol><li>Rinse and pat fish dry with paper towels. Cut into the 2-inch chunks and place them in a bowl. Add in the marinade and leave it for 10 minutes.</li><li>Heat a skillet half-filled with cooking oil. Coat lightly the fish fillet with cornstarch and fry them over the medium heat until light golden. Remove and drain.</li><li>Heat a little of oil in the same skillet over moderately high heat until hot but not smoking. Stir-fry sliced onion until aromatic, add in peas, return the fish to the skillet, pour in sauce (curry, sugar, ketchup, salt, and water) and gently stir to combine.</li><li>Cover and cook for 5 minutes. Dish up and serve with the steamed rice.</li></ol>"
+    },
+    {
+      "id": 9,
+      "title": "Pasta With Tuna",
+      "image": "https://spoonacular.com/recipeImages/654959-556x370.jpg",
+      "secondaryImages": [
+        "/images/food/pasta-tuna-1.jpg",
+        "/images/food/pasta-tuna-2.jpg",
+        "/images/food/pasta-tuna-3.jpg"
+      ],
+      "servings": 4,
+      "readyInMinutes": 60,
+      "aggregateLikes": 168,
+      "caloreies": 423,
+      "ingredients": [
+        "2 tablespoons Flour",
+        "cup Green Onions, chopped",
+        "1 1/4 cups Non-Fat Milk",
+        "2 tablespoons Olive Oil",
+        "2 tablespoons Onion, minced",
+        "1/4 cup Parmesan Cheese, grated",
+        "cup Fresh Parsley or Basil, chopped",
+        "8 ounces Tubular Pasta",
+        "1 cup Frozen Peas, thawed",
+        "1 dish Hot Pepper Sauce",
+        "6 1/2 ounces Can Water-Packed Tuna, drained"
+      ],
+      "tags": ["Italian", "European", "Mediterranean"],
+      "preparation": "<ol><li>Cook pasta in a large pot of boiling water until al dente. Drain and return to warm pot. Put olive oil in saucepan and add onion. Saute until transparent. Stir in flour and cook for a few seconds and then whisk in milk. Stir constantly until this thickens. Add peas, tuna (shredded into chunks,) parsley, green onions, cheese and hot pepper sauce. Pour over pasta and stir gently to mix. Serve at once.</li></ol>"
+    },
+    {
+      "id": 10,
+      "title": "Spaghetti Squash & Tomato Basil Meat Sauce",
+      "image": "https://spoonacular.com/recipeImages/795514-556x370.jpg",
+      "secondaryImages": [
+        "/images/food/spaghetti-squash-1.jpg",
+        "/images/food/spaghetti-squash-2.jpg",
+        "/images/food/spaghetti-squash-3.jpg"
+      ],
+      "servings": 2,
+      "readyInMinutes": 75,
+      "aggregateLikes": 507,
+      "caloreies": 669,
+      "ingredients": [
+        "1 tsp black pepper",
+        "16 oz can crushed tomatoes",
+        "extra virgin olive oil",
+        "1 Tbsp fresh chopped basil",
+        "1 tsp garlic powder",
+        "1 pound lean ground beef",
+        "1 tsp onion powder",
+        "salt to taste",
+        "1 spaghetti squash"
+      ],
+      "tags": ["American", "Italian", "European"],
+      "preparation": "<ol><li><span></span>Heat the oven to 400. </li><li>Halve the squash, scoop and clean the seeds inside. </li><li>Drizzle with a tsp of extra virgin olive oil in each half, add a little salt. </li><li>Take each half and turn face down on a prepared cookie sheet and bake in the oven for 50 minutes. </li><li>Remove and allow to cool for 5-10 minutes. Take a fork and start to shred the insides.</li><li>While roasting the spaghetti squash, brown the lean ground beef. </li><li>Saute the onion and garlic if using fresh veggies. </li><li>Drain the meat sauce and then mix the onion, garlic, black pepper, and meat and place on low to medium heat. </li><li>Add the crushed tomatoes, basil, and pepper, stir. </li><li>Allow to simmer while spaghetti squash is roasting, stirring frequently.</li><li>Scoop the spaghetti squash onto a bowl, cover with meat sauce, and add a pinch of parmesan if desired. </li></ol>"
+    }
+  ]
+}
