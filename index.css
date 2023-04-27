@@ -67,3 +67,16 @@ body {
     font-weight: bold;
     color: #059669;
   }
+  .tags {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+  }
+  .badge {
+    font-size: 10px;
+    display: inline-block;
+    background-color: #059669;
+    color: #fff;
+    border-radius: 12px;
+    padding: 2px;
+  }
