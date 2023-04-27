@@ -139,3 +139,7 @@ body {
     justify-content: space-around;
     margin-bottom: 8px;
   }
+  .recipe-summary svg {
+    color: #059669;
+  }
+  
