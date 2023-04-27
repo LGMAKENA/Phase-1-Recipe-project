@@ -28,3 +28,6 @@ body {
     gap: 16px;
     color: #047857;
 }
+.logo h1 {
+    font-size: 18px;
+}
