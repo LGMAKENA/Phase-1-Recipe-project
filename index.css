@@ -114,3 +114,6 @@ body {
   button:hover {
     background-color: #065f46;
   }
+  .image-container {
+    display: flex;
+  }
