@@ -12,7 +12,7 @@ Linet Makena
  The idea behind this is to solve the problem of lacking recipes of creating different meals in ease.
 
 ## Proposed Solution
-The application contains different recipes for different foods and how to prepare them.
+Creating different recipes for different foods and how to prepare them.
 
 
 ## Objectives
