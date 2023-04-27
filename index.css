@@ -127,3 +127,9 @@ body {
   .image-container img:hover {
     transform: scale(1.005);
   }
+  .main-content .recipe-name {
+    text-align: center;
+    font-size: 36px;
+    color: #059669;
+    margin: 16px 0;
+  }
