@@ -174,3 +174,18 @@ body {
   align-items: center;
   gap: 8px;
 }
+.preparations ol {
+    max-width: 576px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  
+  .salutation {
+    color: #059669;
+    font-size: 44px;
+    text-align: center;
+    font-weight: 500;
+    margin-top: 24px;
+  }
