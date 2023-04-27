@@ -23,4 +23,8 @@ body {
     height: 96px;
     background-color: aliceblue;
     display: flex;
-    align-items: center;}
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    color: #047857;
+}
