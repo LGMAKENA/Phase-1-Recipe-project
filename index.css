@@ -142,4 +142,8 @@ body {
   .recipe-summary svg {
     color: #059669;
   }
-  
+  .summary {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
