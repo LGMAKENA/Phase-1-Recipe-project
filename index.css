@@ -87,3 +87,8 @@ body {
     align-items: center;
     justify-content: center;
   }
+  main form {
+    width: 50%;
+    display: flex;
+    gap: 4px;
+  }
