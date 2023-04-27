@@ -32,3 +32,8 @@ body {
     font-size: 18px;
     font-weight: 600;
 }
+
+#recipe-items {
+    display: flex;
+    flex-direction: column;
+}
