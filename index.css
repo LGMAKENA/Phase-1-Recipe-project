@@ -46,3 +46,8 @@ body {
   #recipe-items li:hover {
     background-color: #d1fae5;
   }
+  .recipe {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
