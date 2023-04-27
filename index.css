@@ -111,3 +111,6 @@ body {
     border-radius: 12px;
     transition: all 750ms ease-in;
   }
+  button:hover {
+    background-color: #065f46;
+  }
