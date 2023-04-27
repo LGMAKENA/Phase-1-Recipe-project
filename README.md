@@ -3,10 +3,19 @@
 ![](./screenshot.png)
 
 
-## Description
-The application contains different recipes for different foods and how to prepare them. 
+## Project author
+Linet Makena
 
-## Features 
+
+
+## Problem Statement
+ The idea behind this is to solve the problem of lacking recipes of creating different meals in ease.
+
+## Proposed Solution
+The application contains different recipes for different foods and how to prepare them.
+
+
+## Objectives
 - List of recipes
 - Users can be able to search for recipes
 - Users can be able to get ingredient details and how to prepare a certain food.
@@ -41,3 +50,6 @@ https://recipes-g6go.onrender.com/recipes
 
 ## About Author
 To contribute to this application or report bugs reach out to [linetmakenag@gmail.com](mailto:linetmakenag@gmail.com)
+
+## Future plans 
+To add more recipes on the list and invite ideas from diferent food enthusists.
