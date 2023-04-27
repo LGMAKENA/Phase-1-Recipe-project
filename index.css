@@ -19,3 +19,8 @@ body {
   main {
     flex: 1;
   }
+  .logo {
+    height: 96px;
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;}
