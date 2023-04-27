@@ -42,3 +42,8 @@ function renderRecipes(recipe) {
         });
       });
   }
+  document.addEventListener('DOMContentLoaded', async () => {
+    const recipes = await loadRecipes();
+    renderRecipes(recipes);
+  });
+  
