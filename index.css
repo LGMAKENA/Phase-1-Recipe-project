@@ -100,3 +100,14 @@ body {
     font-size: 18px;
     flex: 1;
   }
+  button {
+    background-color: #059669;
+    padding: 8px 16px;
+    text-transform: uppercase;
+    color: #fff;
+    cursor: pointer;
+    font-weight: 500;
+    border: none;
+    border-radius: 12px;
+    transition: all 750ms ease-in;
+  }
