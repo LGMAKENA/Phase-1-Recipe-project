@@ -58,3 +58,68 @@ function renderRecipes(recipe) {
     );
     renderRecipes(recipe);
   });
+  async function bindRecipeInfo(title) {
+    mainContent.innerHTML = '';
+    const recipes = await loadRecipes();
+    const recipe = recipes.find(item => item.title === title);
+  
+    const html = `
+      <div class="image-container">
+          <img src="${recipe.image}" alt="${recipe.title}" />
+            <img src="${recipe.secondaryImages[0]}" alt="${recipe.title}" />
+            <img src="${recipe.secondaryImages[1]}" alt="${recipe.title}" />
+            <img src="${recipe.secondaryImages[2]}" alt="${recipe.title}" />
+          </div>
+          <h2 class="recipe-name">${recipe.title}</h2>
+          <div class="recipe-summary">
+            <div class="summary">
+              <svg class="bi" width="32" height="32" fill="currentColor">
+                <use xlink:href="bootstrap-icons.svg#people" />
+              </svg>
+              <p>${recipe.servings} Servings</p>
+            </div>
+            <div class="summary">
+              <svg class="bi" width="32" height="32" fill="currentColor">
+                <use xlink:href="bootstrap-icons.svg#alarm" />
+              </svg>
+              <p>${recipe.readyInMinutes} minutes</p>
+            </div>
+            <div class="summary">
+              <svg class="bi" width="32" height="32" fill="currentColor">
+                <use xlink:href="bootstrap-icons.svg#heart" />
+              </svg>
+              <p>${recipe.aggregateLikes} Likes</p>
+            </div>
+            <div class="summary">
+              <svg class="bi" width="32" height="32" fill="currentColor">
+                <use xlink:href="bootstrap-icons.svg#fire" />
+              </svg>
+              <p>${recipe.caloreies} Calories</p>
+            </div>
+          </div>
+          <div class="ingredients">
+            <h3>Ingredients</h3>
+            <ul class="recipe-list">
+             ${recipe.ingredients
+               .map(ingredient => {
+                 const html = `
+                  <li>
+                      <svg class="bi" width="32" height="32" fill="currentColor">
+                          <use xlink:href="bootstrap-icons.svg#arrow-right-short" />
+                      </svg>
+                      <p>${ingredient}</p>
+                  </li>
+               `;
+                 return html;
+               })
+               .join('')}
+            </ul>
+          </div>
+          <div class="preparations">
+            <h3>Preparations</h3>
+            ${recipe.preparation}
+          </div>
+          <div class="salutation">Happy Cooking!!!</div>  
+    `;
+    mainContent.innerHTML = html;
+  }
