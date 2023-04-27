@@ -51,3 +51,9 @@ body {
     align-items: center;
     gap: 8px;
   }
+  .recipe img {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    display: block;
+  }
