@@ -43,3 +43,6 @@ body {
     cursor: pointer;
     transition: all 750ms ease-in;
   }
+  #recipe-items li:hover {
+    background-color: #d1fae5;
+  }
