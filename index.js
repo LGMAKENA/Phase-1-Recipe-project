@@ -46,4 +46,15 @@ function renderRecipes(recipe) {
     const recipes = await loadRecipes();
     renderRecipes(recipes);
   });
-  
+  document.querySelector('form').addEventListener('submit', async e => {
+    e.preventDefault();
+    const input = document.querySelector('input');
+    const value = input.value.toLowerCase().trim();
+    //get recipes
+    const recipes = await loadRecipes();
+    //find name from array
+    const recipe = recipes.filter(recipe =>
+      recipe.title.toLowerCase().includes(value)
+    );
+    renderRecipes(recipe);
+  });
