@@ -147,3 +147,12 @@ body {
     align-items: center;
     gap: 8px;
   }
+  .summary p {
+    font-size: 18px;
+  }
+  
+  .ingredients {
+    background-color: #d1fae5;
+    margin-bottom: 8px;
+    padding: 4px 8px;
+  }
