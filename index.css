@@ -38,3 +38,8 @@ body {
     flex-direction: column;
     list-style-type: none;
 }
+#recipe-items li {
+    padding: 4px;
+    cursor: pointer;
+    transition: all 750ms ease-in;
+  }
