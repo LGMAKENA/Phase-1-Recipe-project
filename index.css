@@ -80,3 +80,10 @@ body {
     border-radius: 12px;
     padding: 2px;
   }
+  main header {
+    height: 96px;
+    background-color: #d1fae5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
